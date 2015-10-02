@@ -1,0 +1,29 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "oranjje@gmail.com",
+    "longName": "BlackFox Color Browser",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[0-9:. ]",
+                "file": "fonts/9pixels.ttf",
+                "name": "FONT_PROBA_36",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "BlackFox Color Browser",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "4e5282a6-52e0-4921-b2a6-a64222b895b5",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
